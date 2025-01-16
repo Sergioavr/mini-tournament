@@ -1,26 +1,26 @@
-###BODMAS League
+# BODMAS League
 
 BODMAS League is a simple web application designed to display the results of a tournament. It shows the names of participants, their scores, and the location of the event.
-Features
 
-    List of participants' names
-    Scores achieved by each participant
-    Tournament location
-    Simple and easy-to-use interface
+## Features
 
-Technologies Used
+- List of participants' names
+- Scores achieved by each participant
+- Tournament location
+- Simple and easy-to-use interface
 
-    HTML
-    CSS
-    JavaScript
+## Technologies Used
 
-How to Run
+- HTML
+- CSS
+- JavaScript
 
-    Clone the repository to your local machine:
+## How to Run
 
-    git clone https://github.com/yourusername/bodmas-league.git
+1. Clone the repository to your local machine:
 
-    Open the index.html file in your browser to view the page.
+   ```bash
+   git clone https://github.com/yourusername/bodmas-league.git
 
 License
 
